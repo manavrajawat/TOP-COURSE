@@ -1,0 +1,1 @@
+Courses Starter is a beginner-friendly React application that provides a foundation for building an online learning platform. This starter project includes essential features like course listing, filtering, and navigation — making it the perfect boilerplate for e-learning projects
